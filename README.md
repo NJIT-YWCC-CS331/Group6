@@ -1,4 +1,5 @@
 # Group6
+Group members: Sowmiyaa Selvendran, Harshika Agrawal, Haruka Miyazaki
 Online Book Store
 
 Our Online BookStore link: https://onlinebookstore.ct.ws/
